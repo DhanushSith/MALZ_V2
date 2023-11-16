@@ -417,6 +417,8 @@
 	#banner .container {
   padding-top: 92px;
   margin:0 auto;
+  padding-right:10px;
+  padding-left:10px;
 }
 	.malzlogo{
 	width:30%;
