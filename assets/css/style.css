@@ -546,6 +546,7 @@
 .video-wrap {
   width: 100%;
   height: auto; 
+	padding:0px;
 }
 }
 
