@@ -538,6 +538,10 @@
 	text-align:left;
 	padding-bottom:30px;
 }
-
+.video-wrap {
+  margin: 0 auto;
+  position: relative;
+  width: 100%;
+}
 }
 
